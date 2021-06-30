@@ -1,4 +1,5 @@
 # to-do
+A simple to-do list application created using Vue 3, Bootstrap 5 and CSS 
 
 ## Project setup
 ```
